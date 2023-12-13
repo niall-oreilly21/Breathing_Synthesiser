@@ -11,5 +11,12 @@
 				"Editor"
 			]
 		}
+	],
+	"TargetPlatforms": [
+		"Android",
+		"HoloLens",
+		"IOS",
+		"Mac",
+		"Windows"
 	]
 }
